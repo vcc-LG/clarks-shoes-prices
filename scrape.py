@@ -30,10 +30,10 @@ def get_item_price(item):
 
 def get_girl_shoe_response():
     headers = {
-        'cookie': 'JSESSIONID=1A315AADDAF2CE0277811BE690BFCC9E.c1; JSESSIONID=1A315AADDAF2CE0277811BE690BFCC9E.c1; ROUTEID=.1; b1pi=!PHCbmHq94b10ydSuhX4P2qdnHtwURZ6fMQdDf3cPl+YFgvGfjRSIRpXgPo81JjRX4tdBDOPJFHq+kJY=; akacd_holding_page_uk=3702400036~rv=79~id=e42a32c4c99acb483e6887942d18747d; cmTPSet=Y; CoreID6=39642202223515249472389&ci=52540000|www.clarks.co.uk; clarkscookiepolicy=accept; 52540000|www.clarks.co.uk_clogin=v=7&l=61758021524947238963&e=1524949193820; rr_rcs=eF4FwbkNgDAQBMDEEb2s5PU9vuuANiyDJQIyoH5mSnnnLl6ZHgs8bUCXVbRMR6TFlD6kc23391xHZdMArWlql1QlIQLwB3VTEOQ',
+        'cookie': '',
         'accept-encoding': 'gzip, deflate, br',
         'accept-language': 'en-US,en;q=0.9',
-        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+        'user-agent': '',
         'accept': '*/*',
         'referer': 'https://www.clarks.co.uk/Girls/All-styles/c/g4',
         'authority': 'www.clarks.co.uk',
@@ -52,10 +52,10 @@ def get_girl_shoe_response():
 
 def get_boy_shoe_response():
     headers = {
-        'cookie': 'JSESSIONID=1A315AADDAF2CE0277811BE690BFCC9E.c1; ROUTEID=.1; b1pi=!PHCbmHq94b10ydSuhX4P2qdnHtwURZ6fMQdDf3cPl+YFgvGfjRSIRpXgPo81JjRX4tdBDOPJFHq+kJY=; akacd_holding_page_uk=3702400036~rv=79~id=e42a32c4c99acb483e6887942d18747d; cmTPSet=Y; CoreID6=39642202223515249472389&ci=52540000|www.clarks.co.uk; clarkscookiepolicy=accept; BVImplmain_site=19244; 52540000|www.clarks.co.uk_clogin=v=7&l=61758021524947238963&e=1524950206512; rr_rcs=eF4FwbsNgDAMBcAmFbs8yf_YG7BGFIhEQQfMz13b7u-5DmKxBLtYWRp1LYEqwO2duwZxRS7w6QO2nCBVgSzPqX1o5_UDZFYQ6A',
+        'cookie': '',
         'accept-encoding': 'gzip, deflate, br',
         'accept-language': 'en-US,en;q=0.9',
-        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36',
+        'user-agent': '',
         'accept': '*/*',
         'referer': 'https://www.clarks.co.uk/Boys/All-Styles/c/b4',
         'authority': 'www.clarks.co.uk',
