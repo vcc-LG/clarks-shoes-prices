@@ -6,7 +6,7 @@ Compares the prices of girl and boy kids' shoes from the Clarks website.
 
 ## Results
 
-![alt text](https://github.com/vcc-LG/.png "Results")
+![alt text](https://github.com/vcc-LG/clarks-shoes-prices/blob/master/result.png "Results")
 
 |         | Girl           | Boy  |
 | ------------- |:-------------:| -----:|
